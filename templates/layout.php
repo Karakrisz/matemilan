@@ -36,6 +36,8 @@
 
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/ogency.css" />
+    <!-- Boaz styles -->
+    <link rel="stylesheet" href="Boaz/css/style.css" />
 </head>
 
 <body class="custom-cursor">

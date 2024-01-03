@@ -2,14 +2,14 @@
     <nav class="main-menu">
         <div class="container-fluid">
             <div class="main-menu__logo">
-                <a href="index.html">
+                <a href="/">
                     <img src="assets/images/logo-light.png" width="34" height="34" alt="Ogency">
                 </a>
             </div><!-- /.main-menu__logo -->
             <div class="main-menu__nav">
                 <ul class="main-menu__list">
                     <li class="dropdown megamenu">
-                        <a href="index.html">Home</a>
+                        <a href="/">Home</a>
                         <ul>
                             <li>
                                 <section class="home-showcase">
@@ -22,7 +22,7 @@
                                                             <img src="assets/images/home-showcase/home-showcase-1-1.jpg"
                                                                 alt="">
                                                             <div class="home-showcase__buttons">
-                                                                <a href="index.html"
+                                                                <a href="/"
                                                                     class="ogency-btn home-showcase__buttons__item">Multi
                                                                     Page</a>
                                                                 <a href="index-one-page.html"

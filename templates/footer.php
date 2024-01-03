@@ -1,7 +1,7 @@
 <footer class="main-footer" style="background-image: url(assets/images/backgrounds/footer-bg-1.png);">
     <div class="container">
         <div class="main-footer__top wow fadeInUp animated" data-wow-delay="100ms">
-            <a href="index.html" class="main-footer__logo">
+            <a href="/" class="main-footer__logo">
                 <img src="assets/images/footer-logo.png" alt="ogency" width="55" height="55">
             </a><!-- /.footer-logo -->
             <div class="main-footer__social">
