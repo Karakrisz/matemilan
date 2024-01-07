@@ -17,26 +17,26 @@
             <div class="main-slider__one-item">
                 <!-- bg image start -->
                 <div class="main-slider__one-bg"
-                    style="background-image: url(assets/images/backgrounds/slider-1-bg-1.png);"></div>
+                    style="background-image: url(assets/images/backgrounds/slider-1-bg-1-light.png);"></div>
                 <!-- bg image end -->
                 <!-- image-layer start -->
                 <div class="main-slider__one-item__shape-1">
-                    <img src="assets/images/backgrounds/slider-1-shape-1.jpg" alt="">
+
                 </div>
                 <div class="main-slider__one-item__shape-2">
-                    <img src="assets/images/backgrounds/slider-1-shape-2.jpg" alt="">
+                    <img src="Boaz/img/slider-2.jpg" alt="Máté Milán">
                 </div>
                 <!-- image-layer end -->
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-8">
                             <div class="main-slider__one-item__content">
-                                <h2>More then<br> just a design<br> agency</h2>
+                                <h2>Több, mint<br> pénzügyi szakértés<br> és tanácsadás</h2>
                                 <a href="about.html" class="main-slider__one-item__content-curved-circle-box">
                                     <div class="curved-circle">
                                         <!-- curved-circle start-->
                                         <span class="curved-circle--item">
-                                            Discover&emsp;&emsp;more&emsp;&emsp;agency
+                                            &emsp;&emsp;pénzügyi&emsp;&emsp;tanácsadás
                                         </span>
                                     </div><!-- curved-circle end-->
                                     <div class="main-slider__one-item__content-arrow-down">
@@ -54,26 +54,26 @@
             <div class="main-slider__one-item">
                 <!-- bg image start -->
                 <div class="main-slider__one-bg"
-                    style="background-image: url(assets/images/backgrounds/slider-1-bg-1.png);"></div>
+                    style="background-image: url(assets/images/backgrounds/slider-1-bg-1-light.png);"></div>
                 <!-- bg image end -->
                 <!-- image-layer start -->
                 <div class="main-slider__one-item__shape-1">
-                    <img src="assets/images/backgrounds/slider-1-shape-1.jpg" alt="">
+
                 </div>
                 <div class="main-slider__one-item__shape-2">
-                    <img src="assets/images/backgrounds/slider-1-shape-2.jpg" alt="">
+                    <img src="Boaz/img/slider-2.jpg" alt="Máté Milán">
                 </div>
                 <!-- image-layer end -->
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-8">
                             <div class="main-slider__one-item__content">
-                                <h2>More then<br> just a design<br> agency</h2>
+                                <h2>Több, mint<br> pénzügyi szakértés<br> és tanácsadás</h2>
                                 <a href="about.html" class="main-slider__one-item__content-curved-circle-box">
                                     <div class="curved-circle">
                                         <!-- curved-circle start-->
                                         <span class="curved-circle--item">
-                                            Discover&emsp;&emsp;more&emsp;&emsp;agency
+                                            &emsp;&emsp;pénzügyi&emsp;&emsp;tanácsadás
                                         </span>
                                     </div><!-- curved-circle end-->
                                     <div class="main-slider__one-item__content-arrow-down">
@@ -89,9 +89,7 @@
     </div>
     <!-- social start -->
     <div class="main-slider__socails">
-        <a href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
         <a href="https://www.facebook.com/"><i class="fab fa-facebook"></i></a>
-        <a href="https://www.pinterest.com/"><i class="fab fa-pinterest-p"></i></a>
         <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
     </div>
     <!-- social end -->
@@ -180,18 +178,16 @@
                 <div class="feature-one__item">
                     <!-- feature item start -->
                     <div class="feature-one__item__img">
-                        <img src="assets/images/feature/feature-1.jpg" alt="ogency">
+                        <img src="Boaz/img/analizis.webp" alt="ogency">
                     </div>
                     <div class="feature-one__item__content">
-                        <h4 class="feature-one__item__content--title">Creative agency</h4>
+                        <h4 class="feature-one__item__content--title">Analízis</h4>
                         <div class="feature-one__item__content--icon"><span class="icon-idea"></span></div>
                     </div><!-- feature normal content -->
                     <div class="feature-one__item__hover-content">
-                        <h4 class="feature-one__item__hover-content--title">Creative agency</h4>
-                        <p class="feature-one__item__hover-content--text">This present moment is perfect simply due to
-                            the fact.</p>
-                        <a class="feature-one__item__hover-content__btn" href="website-development.html">Read More<span
-                                class="icon-down-right"></span></a>
+                        <h4 class="feature-one__item__hover-content--title">Analízis</h4>
+                        <p class="feature-one__item__hover-content--text">Elemzés: feltérképezzük a célokat, meglévő
+                            szerződéseket.</p>
                     </div><!-- feature hover content -->
                 </div><!-- feature item end -->
             </div>
@@ -199,18 +195,17 @@
                 <div class="feature-one__item">
                     <!-- feature item start -->
                     <div class="feature-one__item__img">
-                        <img src="assets/images/feature/feature-2.jpg" alt="ogency">
+                        <img src="Boaz/img/bevizsgalas.webp" alt="ogency">
                     </div>
                     <div class="feature-one__item__content">
-                        <h4 class="feature-one__item__content--title">Quality work</h4>
+                        <h4 class="feature-one__item__content--title">Bevizsgálás</h4>
                         <div class="feature-one__item__content--icon"><span class="icon-badge"></span></div>
                     </div><!-- feature normal content -->
                     <div class="feature-one__item__hover-content">
-                        <h4 class="feature-one__item__hover-content--title">Quality work</h4>
-                        <p class="feature-one__item__hover-content--text">This present moment is perfect simply due to
-                            the fact.</p>
-                        <a class="feature-one__item__hover-content__btn" href="graphic-designing.html">Read More<span
-                                class="icon-down-right"></span></a>
+                        <h4 class="feature-one__item__hover-content--title">Bevizsgálás</h4>
+                        <p class="feature-one__item__hover-content--text">Kiértékelés: 3 szakértővel elkészítjük azt a
+                            tervezetet, amit a tanácsadáson fogunk megnézni, elindítani. </p>
+
                     </div><!-- feature hover content -->
                 </div><!-- feature item end -->
             </div>
@@ -218,18 +213,16 @@
                 <div class="feature-one__item">
                     <!-- feature item start -->
                     <div class="feature-one__item__img">
-                        <img src="assets/images/feature/feature-3.jpg" alt="ogency">
+                        <img src="Boaz/img/szerviz.webp" alt="ogency">
                     </div>
                     <div class="feature-one__item__content">
-                        <h4 class="feature-one__item__content--title">Professional team</h4>
+                        <h4 class="feature-one__item__content--title">Szerviz</h4>
                         <div class="feature-one__item__content--icon"><span class="icon-group"></span></div>
                     </div><!-- feature normal content -->
                     <div class="feature-one__item__hover-content">
-                        <h4 class="feature-one__item__hover-content--title">Professional team</h4>
-                        <p class="feature-one__item__hover-content--text">This present moment is perfect simply due to
-                            the fact.</p>
-                        <a class="feature-one__item__hover-content__btn" href="digital-marketing.html">Read More<span
-                                class="icon-down-right"></span></a>
+                        <h4 class="feature-one__item__hover-content--title">Szerviz</h4>
+                        <p class="feature-one__item__hover-content--text">Hosszútávú együttműködés:
+                            folyamatos információ csere, 6-12 havonta.</p>
                     </div><!-- feature hover content -->
                 </div><!-- feature item end -->
             </div>
@@ -246,7 +239,7 @@
                     <!-- about thumb start -->
                     <div class="about-one__thumb__round--top"></div>
                     <div class="about-one__thumb__img">
-                        <img src="assets/images/resources/about-1-1.jpg" alt="ogency">
+                        <img src="Boaz/img/milan-2.webp" alt="ogency">
                     </div>
                     <div class="about-one__thumb__round--bottom"></div>
                 </div><!-- about thumb end -->
@@ -255,15 +248,25 @@
                 <div class="about-one__content">
                     <!-- about content start-->
                     <div class="section-title">
-                        <h5 class="section-title__tagline section-title__tagline--has-dots">about the agency</h5>
-                        <h2 class="section-title__title">We’re top notch award winning web design agency</h2>
+                        <h5 class="section-title__tagline section-title__tagline--has-dots">Személyes bemutatkozás</h5>
+                        <h2 class="section-title__title">Máté Milán - Prémium tanácsadó </h2>
                     </div><!-- section-title -->
-                    <p class="about-one__content__text-one">There are many variations of simply free text passages of
-                        available but the majority have suffered alteration in some form, by injected hum randomised
-                        words which don't slightly.</p>
-                    <p class="about-one__content__text-two">Sed ut perspiciatis unde omnis iste natus error voluptatem
-                        accusantium doloremque laudantium totam reme aperiam.</p>
-                    <a href="about.html" class="ogency-btn">Discover More</a>
+                    <p class="about-one__content__text-one">Karrierkezdet: 2017.03.27.</p>
+                    <p class="about-one__content__text-one">MNB regisztrációs szám: 117032707064</p>
+                    <p class="about-one__content__text-one">Allfinanz szolgáltatás magánszemélyek, kis és
+                        középvállalkozások számára.
+                    </p>
+                    <p class="about-one__content__text-one">Ügyfelek száma: Több mint 700 személy
+                    </p>
+                    <p class="about-one__content__text-one">Célom: Minél több embernek segíteni, érhető, korrekt,
+                        személyre szabott pénzügyi tanácsokkal.
+                    </p>
+                    <h5 class="section-title__tagline section-title__tagline--margin"> <strong>Eredményeim:</strong>
+                    </h5>
+                    <p class="about-one__content__text-two">2021-ben Zala Megyében a legeredményesebb tanácsadó,
+                        2022-ben, az országos igazgatóságunkban a legszorgalmasabb tanácsadó voltam!
+                    </p>
+                    <a href="about.html" class="ogency-btn">Bővebben</a>
                 </div><!-- about content end-->
             </div>
         </div>
@@ -273,8 +276,8 @@
 <!-- Sliding Text Start-->
 <section class="slider-text-one">
     <div class="slider-text-one__animate-text">
-        <span>Web design <span>&</span> development agency.&nbsp;</span>
-        <span>Web design <span>&</span> development agency.&nbsp;</span>
+        <span>Több, mint pénzügyi szakértés <span>&</span> tanácsadás</span>
+        <span>Több, mint pénzügyi szakértés <span>&</span> tanácsadás</span>
     </div>
 </section>
 <!-- Sliding Text Start-->
@@ -282,7 +285,7 @@
 <section class="video-one">
     <div class="container">
         <div class="video-one__banner wow fadeInUp animated animated" data-wow-delay="100ms">
-            <img src="assets/images/backgrounds/video-bg-1-1.jpg" alt="ogency">
+            <img src="Boaz/img/video-bg.webp" alt="ogency">
             <div class="video-one__banner__shape wow fadeInRight animated animated" data-wow-delay="300ms">
                 <img src="assets/images/backgrounds/video-bg-shape-1-1.png" alt="ogency">
             </div>
@@ -290,7 +293,7 @@
             <div class="video-one__banner__curved-circle-box wow fadeInUp animated animated" data-wow-delay="400ms">
                 <div class="curved-circle">
                     <span class="curved-circle-item">
-                        Watch&emsp;Our&emsp;agency&emsp;portfolio&emsp;Video
+                        Prémium pénzügyi tanácsadás
                     </span>
                 </div>
                 <!-- video btn start -->
@@ -382,12 +385,12 @@
         <div class="row">
             <div class="col-md-8">
                 <div class="section-title">
-                    <h5 class="section-title__tagline section-title__tagline--has-dots">our work showcase</h5>
-                    <h2 class="section-title__title">Explore our best recently<br> completed projects</h2>
+                    <h5 class="section-title__tagline section-title__tagline--has-dots">FŐ SZAKTERÜLETEIM</h5>
+                    <h2 class="section-title__title">Személyes készségeim<br> pénzügyi tanácsadás terén</h2>
                 </div><!-- section-title -->
             </div>
             <div class="col-md-4 text-end">
-                <a href="projects.html" class="ogency-btn">View All Work</a><!-- section-btn -->
+                <a href="tel:+36306913148" class="ogency-btn">Hívás most</a><!-- section-btn -->
             </div>
         </div>
         <div class="row">
@@ -396,11 +399,11 @@
                     data-wow-delay="100ms">
                     <div class="project-one__item__wrapper">
                         <span class="project-one__item__number"></span>
-                        <h3 class="project-one__item__title">Unique product design</h3><!-- /.project-title -->
+                        <h3 class="project-one__item__title">Bank</h3><!-- /.project-title -->
                         <div class="project-one__item__btn"><span class="icon-down-right"></span></div>
                         <!-- /.project-btn -->
                         <div class="project-one__item__hover"><img class="project-one__item__hover--img"
-                                src="assets/images/project/project-1-1.jpg" alt="ogency"></div>
+                                src="Boaz/img/bank.webp" alt="ogency"></div>
                         <!-- /.project-hover-image -->
                     </div>
                 </a><!-- /.project-item-one -->
@@ -408,11 +411,11 @@
                     data-wow-delay="200ms">
                     <div class="project-one__item__wrapper">
                         <span class="project-one__item__number"></span>
-                        <h3 class="project-one__item__title">UI / UX Design for technology</h3><!-- /.project-title -->
+                        <h3 class="project-one__item__title">Biztosító</h3><!-- /.project-title -->
                         <div class="project-one__item__btn"><span class="icon-down-right"></span></div>
                         <!-- /.project-btn -->
                         <div class="project-one__item__hover"><img class="project-one__item__hover--img"
-                                src="assets/images/project/project-1-2.jpg" alt="ogency"></div>
+                                src="Boaz/img/biztositas.webp" alt="ogency"></div>
                         <!-- /.project-hover-image -->
                     </div>
                 </a><!-- /.project-item-one -->
@@ -420,11 +423,11 @@
                     data-wow-delay="300ms">
                     <div class="project-one__item__wrapper">
                         <span class="project-one__item__number"></span>
-                        <h3 class="project-one__item__title">Crown digial agency site</h3><!-- /.project-title -->
+                        <h3 class="project-one__item__title">Pénztárak</h3><!-- /.project-title -->
                         <div class="project-one__item__btn"><span class="icon-down-right"></span></div>
                         <!-- /.project-btn -->
                         <div class="project-one__item__hover"><img class="project-one__item__hover--img"
-                                src="assets/images/project/project-1-3.jpg" alt="ogency"></div>
+                                src="Boaz/img/penztar.webp" alt="ogency"></div>
                         <!-- /.project-hover-image -->
                     </div>
                 </a><!-- /.project-item-one -->
@@ -432,11 +435,35 @@
                     data-wow-delay="400ms">
                     <div class="project-one__item__wrapper">
                         <span class="project-one__item__number"></span>
-                        <h3 class="project-one__item__title">Creative marketing</h3><!-- /.project-title -->
+                        <h3 class="project-one__item__title">Megtakarítás</h3><!-- /.project-title -->
                         <div class="project-one__item__btn"><span class="icon-down-right"></span></div>
                         <!-- /.project-btn -->
                         <div class="project-one__item__hover"><img class="project-one__item__hover--img"
-                                src="assets/images/project/project-1-4.jpg" alt="ogency"></div>
+                                src="Boaz/img/megtakaritas.webp" alt="ogency"></div>
+                        <!-- /.project-hover-image -->
+                    </div>
+                </a><!-- /.project-item-one -->
+                <a href="project-details.html" class="project-one__item wow fadeInUp animated animated"
+                    data-wow-delay="400ms">
+                    <div class="project-one__item__wrapper">
+                        <span class="project-one__item__number"></span>
+                        <h3 class="project-one__item__title">Nyugdíj</h3><!-- /.project-title -->
+                        <div class="project-one__item__btn"><span class="icon-down-right"></span></div>
+                        <!-- /.project-btn -->
+                        <div class="project-one__item__hover"><img class="project-one__item__hover--img"
+                                src="Boaz/img/nyugdij.webp" alt="ogency"></div>
+                        <!-- /.project-hover-image -->
+                    </div>
+                </a><!-- /.project-item-one -->
+                <a href="project-details.html" class="project-one__item wow fadeInUp animated animated"
+                    data-wow-delay="400ms">
+                    <div class="project-one__item__wrapper">
+                        <span class="project-one__item__number"></span>
+                        <h3 class="project-one__item__title">Állam</h3><!-- /.project-title -->
+                        <div class="project-one__item__btn"><span class="icon-down-right"></span></div>
+                        <!-- /.project-btn -->
+                        <div class="project-one__item__hover"><img class="project-one__item__hover--img"
+                                src="Boaz/img/allam.webp" alt="ogency"></div>
                         <!-- /.project-hover-image -->
                     </div>
                 </a><!-- /.project-item-one -->
@@ -561,10 +588,10 @@
                     <div class="fact-one__item__icon"><span class="icon-complete"></span></div><!-- /.fact-one__icon -->
                     <div class="fact-one__item__count">
                         <span class="count-box">
-                            <span class="count-text" data-stop="8" data-speed="1500"></span>
-                        </span>K
+                            <span class="count-text" data-stop="600" data-speed="1500"></span>
+                        </span>
                     </div><!-- /.fact-one__count -->
-                    <h3 class="fact-one__item__title">Projects completed</h3><!-- /.fact-one__title -->
+                    <h3 class="fact-one__item__title">Befejezett projektek</h3><!-- /.fact-one__title -->
                 </div><!-- /.fact-one__item -->
             </div><!-- /.col-lg-3 col-md-6 -->
             <div class="col-lg-3 col-md-6 wow fadeInUp animated" data-wow-delay="200ms">
@@ -575,7 +602,7 @@
                             <span class="count-text" data-stop="16" data-speed="1500"></span>
                         </span>
                     </div><!-- /.fact-one__count -->
-                    <h3 class="fact-one__item__title">Honorable award</h3><!-- /.fact-one__title -->
+                    <h3 class="fact-one__item__title">Tiszteletbeli díj</h3><!-- /.fact-one__title -->
                 </div><!-- /.fact-one__item -->
             </div><!-- /.col-lg-3 col-md-6 -->
             <div class="col-lg-3 col-md-6 wow fadeInUp animated" data-wow-delay="300ms">
@@ -584,10 +611,10 @@
                     <!-- /.fact-one__icon -->
                     <div class="fact-one__item__count">
                         <span class="count-box">
-                            <span class="count-text" data-stop="5" data-speed="1500"></span>
-                        </span>K
+                            <span class="count-text" data-stop="700" data-speed="1500"></span>
+                        </span>
                     </div><!-- /.fact-one__count -->
-                    <h3 class="fact-one__item__title">Satisfied customers</h3><!-- /.fact-one__title -->
+                    <h3 class="fact-one__item__title">Elégedett ügyfelek</h3><!-- /.fact-one__title -->
                 </div><!-- /.fact-one__item -->
             </div><!-- /.col-lg-3 col-md-6 -->
             <div class="col-lg-3 col-md-6 wow fadeInUp animated" data-wow-delay="400ms">
@@ -595,10 +622,10 @@
                     <div class="fact-one__item__icon"><span class="icon-team"></span></div><!-- /.fact-one__icon -->
                     <div class="fact-one__item__count">
                         <span class="count-box">
-                            <span class="count-text" data-stop="20" data-speed="1500"></span>
+                            <span class="count-text" data-stop="19" data-speed="1500"></span>
                         </span>
                     </div><!-- /.fact-one__count -->
-                    <h3 class="fact-one__item__title">Professional completed</h3><!-- /.fact-one__title -->
+                    <h3 class="fact-one__item__title">Szakmai képzések</h3><!-- /.fact-one__title -->
                 </div><!-- /.fact-one__item -->
             </div><!-- /.col-lg-3 col-md-6 -->
         </div><!-- /.row -->
@@ -608,19 +635,19 @@
 <section class="sliding-text @@extraClassName">
     <div class="sliding-text__wrap">
         <ul class="sliding-text__list list-unstyled">
-            <li>*Transofrm ideas into reality</li>
-            <li>*INSPIRED WITH CREATIVITY</li>
-            <li>*Design & development craft</li>
-            <li>*unlock the potential</li>
-            <li>*Transofrm ideas into reality</li>
-            <li>*INSPIRED WITH CREATIVITY</li>
-            <li>*Design & development craft</li>
-            <li>*unlock the potential</li>
-            <li>*Transofrm ideas into reality</li>
-            <li>*INSPIRED WITH CREATIVITY</li>
-            <li>*Design & development craft</li>
-            <li>*unlock the potential</li>
-            <li>*Transofrm ideas into reality</li>
+            <li>*Pénzügyi ötleteid valósággá változtatása</li>
+            <li>*INSPIRÁLT KREATIVITÁSSAL</li>
+            <li>*Tervezés és fejlesztés mestersége</li>
+            <li>*A potenciál felszabadítása</li>
+            <li>*Pénzügyi ötleteid valósággá változtatása</li>
+            <li>*INSPIRÁLT KREATIVITÁSSAL</li>
+            <li>*Tervezés és fejlesztés mestersége</li>
+            <li>*A potenciál felszabadítása</li>
+            <li>*Pénzügyi ötleteid valósággá változtatása</li>
+            <li>*INSPIRÁLT KREATIVITÁSSAL</li>
+            <li>*Tervezés és fejlesztés mestersége</li>
+            <li>*A potenciál felszabadítása</li>
+            <li>*Pénzügyi ötleteid valósággá változtatása</li>
         </ul>
     </div>
 </section>
@@ -751,11 +778,11 @@
 <section class="cta-one">
     <div class="container text-center wow fadeInUp animated" data-wow-delay="200ms">
         <div class="cta-one__author">
-            <div class="cta-one__author--wrap"><img src="assets/images/resources/cta-1-1.jpg" alt="ogency"></div>
+            <div class="cta-one__author--wrap"><img src="Boaz/img/contact.webp" alt="ogency"></div>
             <a href="contact.html" class="cta-one__icon"><span class="icon-arrow-long"></span></a>
         </div><!-- cta-author -->
         <div class="section-title">
-            <h2 class="section-title__title">Have any projects in mind?<br> Get in touch with us!</h2>
+            <h2 class="section-title__title">Felmerült valamilyen kérdése?<br> Vegye fel velem a kapcsolatot!</h2>
         </div><!-- section-title -->
     </div>
 </section>

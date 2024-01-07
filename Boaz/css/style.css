@@ -1,13 +1,145 @@
 /********************  Boaz formating start **********************/
 
-.client-carousel {
+.client-carousel,
+.blog-one,
+.testimonial-one,
+.team-one,
+.main-menu__search,
+.main-menu__cart,
+.main-slider__socails,
+.main-slider__phone,
+.main-slider__one-item__content-curved-circle-box,
+.service-one {
     display: none;
+}
+
+:root {
+    --ogency-black2: #F5F5F5;
+    /* --ogency-white: #3581B8; */
+    --ogency-color: #000;
+}
+
+.main-menu__logo {
+    width: 13%;
+    padding: 1em 0;
+}
+
+.main-menu__logo__img {
+    width: 100%;
+}
+
+.main-slider__one-item__content h2 {
+    line-height: 100px;
+    letter-spacing: 0px;
+    font-size: 90px;
+}
+
+.main-menu .main-menu__list>li>a,
+.stricky-header .main-menu__list>li>a {
+    font-size: 1rem;
+}
+
+.main-menu .main-menu__list>li.current>a,
+.main-menu .main-menu__list>li:hover>a,
+.stricky-header .main-menu__list>li.current>a,
+.stricky-header .main-menu__list>li:hover>a {
+    color: #000;
+}
+
+.main-menu {}
+
+.main-menu__nav {
+    padding-left: 0;
+}
+
+.about-one__thumb__img {
+    border-radius: 0;
+}
+
+.main-footer__about p,
+.main-footer__navmenu ul li,
+.main-footer__copyright {
+    color: #fff;
+}
+
+.main-slider__one-item__shape-1 img,
+.main-slider__one-item__shape-2 img {
+    opacity: 1;
+}
+
+.main-menu .main-menu__list>li,
+.stricky-header .main-menu__list>li {
+    margin-left: 4em;
+}
+
+.main-slider__one-item__shape-2 img,
+.about-one__thumb__img img {
+    /* mix-blend-mode: unset; */
+}
+
+.owl-carousel .owl-item img {
+    width: 100% !important;
+}
+
+.main-slider__one-item__shape-2 {
+    width: 520px;
+}
+
+.about-one__content__text-one {
+    margin-bottom: 1em;
+}
+
+.video-one__banner>img {
+    height: 550px;
+    object-fit: cover;
+}
+
+.section-title__title {
+    margin-top: 0.7em;
+}
+
+.section-title__tagline--margin {
+    margin: 2em 0;
+}
+
+.about-one__content {
+    padding-top: 7em;
+}
+
+.feature-one {
+    padding-top: 9em;
+}
+
+.feature-one__item__img img {
+    height: 300px;
+    object-fit: cover;
+}
+
+.fact-one__item {
+    height: 380px;
+}
+
+.cta-one .section-title__title {
+    font-size: 50px;
+}
+
+.main-footer__about a {
+    font-size: 25px;
+    letter-spacing: 0;
+}
+
+.main-footer__logo img {
+    width: 17%;
 }
 
 
 /********************  Media start **********************/
 
-@media screen and (max-width: 767px) {}
+@media screen and (max-width: 767px) {
+    .fact-one__item {
+        height: 100%;
+    }
+}
 
 
 /********************  Media end **********************/
