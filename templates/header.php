@@ -3,7 +3,7 @@
         <div class="container-fluid">
             <div class="main-menu__logo">
                 <a href="/">
-                    <img class="main-menu__logo__img" src="Boaz/img/logo.png" alt="Ogency">
+                    <img class="main-menu__logo__img" src="Boaz/img/logo.webp" alt="Ogency">
                 </a>
             </div><!-- /.main-menu__logo -->
             <div class="main-menu__nav">

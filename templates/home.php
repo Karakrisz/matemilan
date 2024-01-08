@@ -395,8 +395,7 @@
         </div>
         <div class="row">
             <div class="col-md-12">
-                <a href="project-details.html" class="project-one__item wow fadeInUp animated animated"
-                    data-wow-delay="100ms">
+                <a href="/bank" class="project-one__item wow fadeInUp animated animated" data-wow-delay="100ms">
                     <div class="project-one__item__wrapper">
                         <span class="project-one__item__number"></span>
                         <h3 class="project-one__item__title">Bank</h3><!-- /.project-title -->
@@ -407,8 +406,7 @@
                         <!-- /.project-hover-image -->
                     </div>
                 </a><!-- /.project-item-one -->
-                <a href="project-details.html" class="project-one__item wow fadeInUp animated animated"
-                    data-wow-delay="200ms">
+                <a href="/biztositas" class="project-one__item wow fadeInUp animated animated" data-wow-delay="200ms">
                     <div class="project-one__item__wrapper">
                         <span class="project-one__item__number"></span>
                         <h3 class="project-one__item__title">Biztosító</h3><!-- /.project-title -->
@@ -419,8 +417,7 @@
                         <!-- /.project-hover-image -->
                     </div>
                 </a><!-- /.project-item-one -->
-                <a href="project-details.html" class="project-one__item wow fadeInUp animated animated"
-                    data-wow-delay="300ms">
+                <a href="/penztarak" class="project-one__item wow fadeInUp animated animated" data-wow-delay="300ms">
                     <div class="project-one__item__wrapper">
                         <span class="project-one__item__number"></span>
                         <h3 class="project-one__item__title">Pénztárak</h3><!-- /.project-title -->

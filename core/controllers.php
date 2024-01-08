@@ -12,6 +12,54 @@ function homeController()
     ];
 }
 
+function bankController()
+{
+
+
+    return [
+        "bank",
+        [
+            "title" => "Bank"
+        ]
+    ];
+}
+
+function insuranceController()
+{
+
+
+    return [
+        "biztositas",
+        [
+            "title" => "Biztosítás"
+        ]
+    ];
+}
+
+function checkoutController()
+{
+
+
+    return [
+        "penztarak",
+        [
+            "title" => "Pénztárak"
+        ]
+    ];
+}
+
+function savingsController()
+{
+
+
+    return [
+        "megtakaritas",
+        [
+            "title" => "Megtakarítás"
+        ]
+    ];
+}
+
 function notFoundController()
 {
     return [

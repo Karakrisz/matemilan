@@ -9,7 +9,9 @@
 .main-slider__socails,
 .main-slider__phone,
 .main-slider__one-item__content-curved-circle-box,
-.service-one {
+.service-one,
+.video-one__banner__curved-circle-box,
+.video-one__banner__shape img {
     display: none;
 }
 
@@ -90,7 +92,7 @@
 }
 
 .video-one__banner>img {
-    height: 550px;
+    height: 750px;
     object-fit: cover;
 }
 
@@ -103,7 +105,7 @@
 }
 
 .about-one__content {
-    padding-top: 7em;
+    padding-top: 8em;
 }
 
 .feature-one {
@@ -130,6 +132,21 @@
 
 .main-footer__logo img {
     width: 17%;
+}
+
+.page-header .container h2 {
+    font-size: 33px;
+    letter-spacing: 0;
+    width: 50%;
+    padding-top: 2em;
+}
+
+.page-header .container {
+    padding-bottom: 9em;
+}
+
+.project-details__content__lists li {
+    margin-bottom: 1em;
 }
 
 
