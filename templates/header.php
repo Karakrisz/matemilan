@@ -12,13 +12,13 @@
                         <a href="/">Kezdőlap</a>
                     </li>
                     <li class="dropdown">
-                        <a href="#">Szolgáltatások</a>
+                        <a href="/szolgaltatasok">Szolgáltatások</a>
                     </li>
                     <li class="dropdown">
                         <a href="#">Rólam</a>
                     </li>
                     <li>
-                        <a href="#">Kapcsolat</a>
+                        <a href="/kapcsolat">Kapcsolat</a>
                     </li>
                 </ul>
             </div><!-- /.main-menu__nav -->

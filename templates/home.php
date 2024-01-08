@@ -428,8 +428,7 @@
                         <!-- /.project-hover-image -->
                     </div>
                 </a><!-- /.project-item-one -->
-                <a href="project-details.html" class="project-one__item wow fadeInUp animated animated"
-                    data-wow-delay="400ms">
+                <a href="/megtakaritas" class="project-one__item wow fadeInUp animated animated" data-wow-delay="400ms">
                     <div class="project-one__item__wrapper">
                         <span class="project-one__item__number"></span>
                         <h3 class="project-one__item__title">Megtakarítás</h3><!-- /.project-title -->
@@ -440,8 +439,7 @@
                         <!-- /.project-hover-image -->
                     </div>
                 </a><!-- /.project-item-one -->
-                <a href="project-details.html" class="project-one__item wow fadeInUp animated animated"
-                    data-wow-delay="400ms">
+                <a href="/nyugdij" class="project-one__item wow fadeInUp animated animated" data-wow-delay="400ms">
                     <div class="project-one__item__wrapper">
                         <span class="project-one__item__number"></span>
                         <h3 class="project-one__item__title">Nyugdíj</h3><!-- /.project-title -->
@@ -452,8 +450,7 @@
                         <!-- /.project-hover-image -->
                     </div>
                 </a><!-- /.project-item-one -->
-                <a href="project-details.html" class="project-one__item wow fadeInUp animated animated"
-                    data-wow-delay="400ms">
+                <a href="/allam" class="project-one__item wow fadeInUp animated animated" data-wow-delay="400ms">
                     <div class="project-one__item__wrapper">
                         <span class="project-one__item__number"></span>
                         <h3 class="project-one__item__title">Állam</h3><!-- /.project-title -->

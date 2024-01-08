@@ -12,6 +12,30 @@ function homeController()
     ];
 }
 
+function servicesController()
+{
+
+
+    return [
+        "szolgaltatasok",
+        [
+            "title" => "Szolgáltatások"
+        ]
+    ];
+}
+
+function contactController()
+{
+
+
+    return [
+        "kapcsolat",
+        [
+            "title" => "Kapcsolat"
+        ]
+    ];
+}
+
 function bankController()
 {
 
@@ -56,6 +80,30 @@ function savingsController()
         "megtakaritas",
         [
             "title" => "Megtakarítás"
+        ]
+    ];
+}
+
+function pensionController()
+{
+
+
+    return [
+        "nyugdij",
+        [
+            "title" => "Nyugdíj"
+        ]
+    ];
+}
+
+function stateController()
+{
+
+
+    return [
+        "allam",
+        [
+            "title" => "Állam"
         ]
     ];
 }

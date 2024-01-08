@@ -17,48 +17,43 @@
         <div class="row">
             <div class="col-xl-8 col-lg-7 wow fadeInLeft animated" data-wow-delay="300ms">
                 <div class="project-details__content">
-                    <h3 class="project-details__content__title">Megtakarítás és Tőkeháttér</h3>
+                    <h3 class="project-details__content__title">Megtakarítás és tőkeháttér</h3>
                     <p class="project-details__content__text">
-                        <strong>Üdvözöllek!</strong> Máté Milán vagyok és a pénztárak, egészség és
-                        önsegélyező területén kifejtett szakértelmemmel a jövődért dolgozom. Megismerve a lakástakarék
-                        pénztárak és az egészségügyi önkéntes pénztárak működését, mindent megteszek azért, hogy az
-                        Ügyfeleim számára a legoptimálisabb pénzügyi megoldásokat biztosítsam.
+                        <strong>Üdvözöllek!</strong> Máté Milán vagyok, és odaadóan foglalkozom a
+                        megtakarítás és tőkeháttér építésének művészetével. A különféle megtakarítási koncepciók, a
+                        saját ingatlan tervezése, a gyermek támogatása mind olyan kulcsfontosságú elemek, amelyekkel az
+                        életedet kényelmessé és biztonságossá tehetjük.
                     </p>
                     <h4 class="project-details__content__title-two">
-                        Az adókedvezmények lehetőségeit kihasználva és a lakástakarék pénztárak előnyeit kiemelve arra
-                        törekszem, hogy minden Ügyfelem számára egyedi, előremutató pénzügyi tervezést és megoldásokat
-                        nyújtsak.
+                        Megtakarítási terveimmel nem csupán arra törekszem, hogy Ügyfeleim pénzügyi célokat érjenek el,
+                        hanem hogy egy erős és fenntartható tőkeháttér épüljön fel az életükben.
                     </h4>
                     <p class="project-details__content__text">
-                        Célom, hogy segítsek nekik a hatékony és költséghatékony pénzügyi döntések meghozatalában. Ha a
-                        banki világban eligazodásra van szükséged, itt vagyok, hogy támogassalak és irányítalak a
-                        legjobb úton.
+                        A saját ingatlan tulajdonlása és a gyermek támogatása olyan eszközök, amelyekkel hosszú távú
+                        gazdagságot és stabilitást hozunk létre, és én mindig a legújabb lehetőségekkel ismertetem meg
+                        Ügyfeleimet a pénzügyi siker érdekében.
                     </p>
                     <p class="project-details__content__text">
-                        Az egészség és önsegélyező területén a gondoskodás és az előrelátás alapján alakítom ki az
-                        egyéni stratégiákat, hogy a jövőbeni kihívásokra a lehető legjobban felkészüljünk.
+                        Az én vezetésem alatt a megtakarítás nemcsak egy feladat, hanem az életed minőségének és
+                        biztonságának építőköve.
                     </p>
                     <h4 class="project-details__content__title-three">Az ügyintézés kihívásai</h4>
                     <ul class="project-details__content__lists list-unstyled">
-                        <li><span class="fa fa-check"></span>A személyre szabott pénzügyi tanácsadásommal minden
-                            Ügyfelem számára lehetőséget teremtek arra, hogy saját pénzügyi jövőjüket alakítsák,
-                            kihasználva a lakástakarék pénztárak és az egészségügyi önkéntes pénztárak által kínált
-                            adókedvezményeket.
+                        <li><span class="fa fa-check"></span>Az én megtakarítási koncepcióim és tőkeháttér építési
+                            stratégiáim segítségével Ügyfeleim nemcsak pénzügyi célokat érnek el, hanem valódi kényelmet
+                            és biztonságot teremtenek az életükben.
                         </li>
-                        <li><span class="fa fa-check"></span>Rugalmasságomnak és a piac legfrissebb trendjeinek való
-                            naprakész tudásomnak köszönhetően minden egyes Ügyfelemnek személyre szabott, hatékony és
-                            előrelátó pénzügyi stratégiát kínálok a lakástakarék pénztárak és az egészségügyi önkéntes
-                            pénztárak terén.</li>
-                        <li><span class="fa fa-check"></span>Az én vezetésem alatt a pénztárak, egészség és önsegélyező
-                            területén nem csupán egy ügyintézési szolgáltatást kapnak Ügyfeleim, hanem egy hosszú távú
-                            együttműködést amely biztosítja, hogy minden pénzügyi lépésüket a jövőjük szempontjából
-                            tervszerűen és előremutatóan tegyék meg.
+                        <li><span class="fa fa-check"></span>Rugalmasságomnak és az aktuális piaci trendekre való gyors
+                            reagálásomnak köszönhetően minden egyes megtakarítási tervet testre szabok az Ügyfeleim
+                            számára, hogy azok valóban az egyéni igényeikre szabottak legyenek.</li>
+                        <li><span class="fa fa-check"></span>Az én vezetésem alatt a megtakarítás nemcsak egy cél, hanem
+                            egy folyamatos fejlődés és jóléti növekedés útja, amelyet a saját ingatlan és gyermek
+                            támogatás eszközeivel építek fel az Ügyfeleim számára.
                         </li>
                     </ul>
                     <p class="project-details__content__text">
-                        Ha olyan pénzügyi megoldásokra vágysz, amelyek nemcsak a jelenre, de a jövődre is gondolnak,
-                        bátran keress engem! Az élet minden szakaszában melletted állok, hogy segítsek a pénzügyi
-                        stabilitás és a személyes fejlődés elérésében.
+                        Ha olyan megtakarítási koncepciókra és tőkeháttér felépítési stratégiákra vágysz, amelyek
+                        valóban az életed kényelmes alapjait erősítik, keress bizalommal!
                     </p>
                 </div>
             </div>
