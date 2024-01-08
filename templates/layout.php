@@ -4,14 +4,35 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <meta http-equiv="Content-Security-Policy" content="
+        default-src 'self' https: data:;
+        img-src 'self' https: http: data:;
+        font-src 'self' https: data:;
+        style-src 'self' https: 'unsafe-inline';
+        script-src 'self' https: 'unsafe-inline' 'unsafe-eval';
+    ">
+
     <title><?php echo 'Független pénzügyi tanácsadó - ' . $title;  ?></title>
 
     <!-- favicons Icons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
-    <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-    <meta name="description" content="Ogency HTML Template For Creative Agency" />
+    <link rel="icon" href="Boaz/img/logo.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="Boaz/img/logo.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="Boaz/img/logo.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="Boaz/img/logo.png" />
+    <!-- <link rel="manifest" href="assets/images/favicons/site.webmanifest" /> -->
+
+    <meta property="og:title" content="Máté Milán - független pénzügyi tanácsadó" />
+    <meta property="og:image" content="" />
+    <meta property="og:site_name" content="Máté Milán - független pénzügyi tanácsadó" />
+    <meta property="og:description" content="" />
+
+    <link rel="schema.dcterms" href="http://purl.org/dc/terms/">
+    <meta name="DC.coverage" content="Hungary" />
+    <meta name="DC.description" content="" />
+    <meta name="DC.format" content="text/html" />
+    <meta name="DC.publisher" content="Máté Milán - független pénzügyi tanácsadó" />
+    <meta name="DC.title" content="" />
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com" />

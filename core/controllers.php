@@ -24,6 +24,18 @@ function servicesController()
     ];
 }
 
+function aboutController()
+{
+
+
+    return [
+        "rolam",
+        [
+            "title" => "Rólam"
+        ]
+    ];
+}
+
 function contactController()
 {
 

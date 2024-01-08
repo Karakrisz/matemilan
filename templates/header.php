@@ -15,7 +15,7 @@
                         <a href="/szolgaltatasok">Szolgáltatások</a>
                     </li>
                     <li class="dropdown">
-                        <a href="#">Rólam</a>
+                        <a href="/rolam">Rólam</a>
                     </li>
                     <li>
                         <a href="/kapcsolat">Kapcsolat</a>

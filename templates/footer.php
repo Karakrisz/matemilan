@@ -5,8 +5,9 @@
                 <img src="Boaz/img/footer-logo.webp" alt="ogency">
             </a><!-- /.footer-logo -->
             <div class="main-footer__social">
-                <a href="https://www.facebook.com/"><i class="fab fa-facebook"></i></a>
-                <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                <a target="_blank" href="https://www.facebook.com/matemilan.penzugyitanacsado"><i
+                        class="fab fa-facebook"></i></a>
+                <a target="_blank" href="https://www.instagram.com/mm__consulting"><i class="fab fa-instagram"></i></a>
             </div><!-- /.footer-social -->
         </div><!-- footer-top -->
         <div class="row">
@@ -43,27 +44,14 @@
     <div class="mobile-nav__content">
         <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
         <div class="logo-box">
-            <a href="index.html" aria-label="logo image"><img src="assets/images/logo-light.png" width="36"
-                    alt="ogency" /></a>
+            <a href="/" aria-label="logo image"><img src="Boaz/img/logo.webp" alt="ogency" /></a>
         </div>
         <!-- /.logo-box -->
         <div class="mobile-nav__container"></div>
-        <!-- /.mobile-nav__container -->
-        <ul class="mobile-nav__contact list-unstyled">
-            <li>
-                <i class="fas fa-envelope"></i>
-                <a href="mailto:needhelp@packageName__.com">needhelp@finlon.com</a>
-            </li>
-            <li>
-                <i class="icon-phone-call"></i>
-                <a href="tel:666-888-0000">666 888 0000</a>
-            </li>
-        </ul><!-- /.mobile-nav__contact -->
         <div class="mobile-nav__social">
-            <a href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
-            <a href="https://www.facebook.com/"><i class="fab fa-facebook"></i></a>
-            <a href="https://www.pinterest.com/"><i class="fab fa-pinterest-p"></i></a>
-            <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+            <a target="_blank" href="https://www.facebook.com/matemilan.penzugyitanacsado"><i
+                    class="fab fa-facebook"></i></a>
+            <a target="_blank" href="https://www.instagram.com/mm__consulting"><i class="fab fa-instagram"></i></a>
         </div><!-- /.mobile-nav__social -->
     </div>
     <!-- /.mobile-nav__content -->

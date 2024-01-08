@@ -266,7 +266,7 @@
                     <p class="about-one__content__text-two">2021-ben Zala Megyében a legeredményesebb tanácsadó,
                         2022-ben, az országos igazgatóságunkban a legszorgalmasabb tanácsadó voltam!
                     </p>
-                    <a href="about.html" class="ogency-btn">Bővebben</a>
+                    <a href="/rolam" class="ogency-btn">Bővebben</a>
                 </div><!-- about content end-->
             </div>
         </div>
