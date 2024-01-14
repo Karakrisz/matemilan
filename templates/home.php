@@ -773,10 +773,10 @@
     <div class="container text-center wow fadeInUp animated" data-wow-delay="200ms">
         <div class="cta-one__author">
             <div class="cta-one__author--wrap"><img src="Boaz/img/contact.webp" alt="ogency"></div>
-            <a href="contact.html" class="cta-one__icon"><span class="icon-arrow-long"></span></a>
+            <a href="/kapcsolat" class="cta-one__icon"><span class="icon-arrow-long"></span></a>
         </div><!-- cta-author -->
         <div class="section-title">
-            <h2 class="section-title__title">Felmerült valamilyen kérdése?<br> Vegye fel velem a kapcsolatot!</h2>
+            <h2 class="section-title__title">Felmerült valamilyen kérdésed?<br> Vedd fel velem a kapcsolatot!</h2>
         </div><!-- section-title -->
     </div>
 </section>

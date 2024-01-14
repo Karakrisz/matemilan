@@ -11,7 +11,10 @@
 .main-slider__one-item__content-curved-circle-box,
 .service-one,
 .video-one__banner__curved-circle-box,
-.video-one__banner__shape img {
+.video-one__banner__shape img,
+.icon-idea,
+.icon-badge,
+.icon-group {
     display: none;
 }
 

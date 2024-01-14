@@ -23,9 +23,9 @@
                 <div class="main-footer__navmenu">
                     <ul>
                         <li><a href="/">Kezdőlap</a></li>
-                        <li><a href="#">Szolgáltatások</a></li>
-                        <li><a href="#">Rólam</a></li>
-                        <li><a href="#">Kapcsolat</a></li>
+                        <li><a href="/szolgaltatasok">Szolgáltatások</a></li>
+                        <li><a href="/rolam">Rólam</a></li>
+                        <li><a href="/kapcsolat">Kapcsolat</a></li>
                     </ul><!-- /.list-unstyled -->
                 </div><!-- /.footer-widget -->
             </div>
