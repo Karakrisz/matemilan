@@ -19,41 +19,43 @@
                 <div class="project-details__content">
                     <h3 class="project-details__content__title">Megtakarítás és tőkeháttér</h3>
                     <p class="project-details__content__text">
-                        <strong>Üdvözöllek!</strong> Máté Milán vagyok, és odaadóan foglalkozom a
-                        megtakarítás és tőkeháttér építésének művészetével. A különféle megtakarítási koncepciók, a
-                        saját ingatlan tervezése, a gyermek támogatása mind olyan kulcsfontosságú elemek, amelyekkel az
-                        életedet kényelmessé és biztonságossá tehetjük.
+                        Manapság a legtöbb ember tudja, tisztában van a megtakarítások, pénzügyi tartalékok
+                        fontosságával. Sok ember rendelkezik már valamekkora biztonsági tartalékkal, viszont sajnos nem
+                        a kellő mértékűvel.
                     </p>
                     <h4 class="project-details__content__title-two">
-                        Megtakarítási terveimmel nem csupán arra törekszem, hogy Ügyfeleim pénzügyi célokat érjenek el,
-                        hanem hogy egy erős és fenntartható tőkeháttér épüljön fel az életükben.
+                        Tőkét úgy tudunk stabilan felépíteni, ha az aktuális élethelyzetünkhez viszonyítva egy megfelelő
+                        összeget, rendszeresen félreteszünk.
                     </h4>
                     <p class="project-details__content__text">
-                        A saját ingatlan tulajdonlása és a gyermek támogatása olyan eszközök, amelyekkel hosszú távú
-                        gazdagságot és stabilitást hozunk létre, és én mindig a legújabb lehetőségekkel ismertetem meg
-                        Ügyfeleimet a pénzügyi siker érdekében.
+                        Legtöbb ügyfelem ezekkel a már épülő tőkékkel, jól működő megtakarításokkal a gyermekeit, vagy a
+                        jövőbeni nyugdíjas önmagát szeretné támogatni. Mindemellett vannak, akik csak tartalékot
+                        szeretnének felépíteni, vagy a meglévő/jövőbeni hiteleitek szeretnék idővel előtörleszteni.
                     </p>
                     <p class="project-details__content__text">
-                        Az én vezetésem alatt a megtakarítás nemcsak egy feladat, hanem az életed minőségének és
-                        biztonságának építőköve.
+                        Az én vezetésem alatt először feltérképezzük a jövőbeni várható nagyobb kiadásokat, majd azokat
+                        a kellő időtáv alkalmazásával megtervezzük.
                     </p>
                     <h4 class="project-details__content__title-three">Az ügyintézés kihívásai</h4>
                     <ul class="project-details__content__lists list-unstyled">
-                        <li><span class="fa fa-check"></span>Az én megtakarítási koncepcióim és tőkeháttér építési
-                            stratégiáim segítségével Ügyfeleim nemcsak pénzügyi célokat érnek el, hanem valódi kényelmet
-                            és biztonságot teremtenek az életükben.
+                        <li><span class="fa fa-check"></span>Az általam készített megtakarítási koncepciók, tőkeháttér
+                            építési stratégiáim segítségével ügyfeleim nem csak pénzügyi célokat érnek el, hanem valódi
+                            kényelmet és biztonságot teremtenek az életükben.
                         </li>
-                        <li><span class="fa fa-check"></span>Rugalmasságomnak és az aktuális piaci trendekre való gyors
-                            reagálásomnak köszönhetően minden egyes megtakarítási tervet testre szabok az Ügyfeleim
-                            számára, hogy azok valóban az egyéni igényeikre szabottak legyenek.</li>
-                        <li><span class="fa fa-check"></span>Az én vezetésem alatt a megtakarítás nemcsak egy cél, hanem
-                            egy folyamatos fejlődés és jóléti növekedés útja, amelyet a saját ingatlan és gyermek
-                            támogatás eszközeivel építek fel az Ügyfeleim számára.
+                        <li><span class="fa fa-check"></span>Vannak, akik aggódnak vagy bizonytalanok a jövőjüket
+                            illetően. Ilyen esetben elengedhetetlen az, hogy felkészüljünk a bizonytalanságra akár
+                            megtakarítással amellett, hogy az aktuális vágyaink és kiadásaink ne szoruljanak háttérbe.
+                        </li>
+                        <li><span class="fa fa-check"></span>Támogatói hozzáállásommal a megtakarítás nem csak egy cél,
+                            hanem egy folyamatos fejlődés. Mindemellett folyamatosan partner vagyok abban, hogy az
+                            időközben felmerülő nehézségekre is megfelelő tanácsokat tudjak biztosítani.
                         </li>
                     </ul>
                     <p class="project-details__content__text">
-                        Ha olyan megtakarítási koncepciókra és tőkeháttér felépítési stratégiákra vágysz, amelyek
-                        valóban az életed kényelmes alapjait erősítik, keress bizalommal!
+                        Ha már gondoltál arra, hogy megtakaríts, de eddig még nem tettél érte, akkor van egy jó hírem! A
+                        jó időpont most van arra, hogy belekezdj egy olyan tőkeháttér felépítési stratégiába, mely
+                        valóban az életed kényelmes alapjait erősítse. Ehhez a következő lépés, hogy a megadott
+                        elérhetőségeimen keress!
                     </p>
                 </div>
             </div>

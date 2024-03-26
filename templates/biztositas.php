@@ -8,7 +8,7 @@
 
         </ul><!-- /.page-breadcrumb list-unstyled -->
         <h2 class="page-header__title">25 cég a piacon, Személy-, vagyonbiztosítások
-            a legjobb ár-érték arányban</h2><!-- /.page-title -->
+            kiemelkedő ár-érték arányban</h2><!-- /.page-title -->
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 <!-- Projects Details Start -->
@@ -17,46 +17,45 @@
         <div class="row">
             <div class="col-xl-8 col-lg-7 wow fadeInLeft animated" data-wow-delay="300ms">
                 <div class="project-details__content">
-                    <h3 class="project-details__content__title">Biztosító ügyintézés</h3>
+                    <h3 class="project-details__content__title">Biztosító</h3>
                     <p class="project-details__content__text">
-                        <strong>Üdvözöllek!</strong> Máté Milán vagyok, és odaadóan foglalkozom a biztosító
-                        ügyintézés világával Magyarországon. Szakértelmem és elhivatottságom révén nem csupán 25 kiváló
-                        biztosítócég működését ismerem részletesen a piacon, hanem személyes tapasztalatokat is
-                        felhalmozva azon dolgozom, hogy Ügyfeleim számára a legoptimálisabb biztosítási megoldásokat
-                        kínáljam.
+                        Biztosításokkal az ország egész területén foglalkozom, hiszen nagyon sok területen van lehetőség
+                        a teljes vagy részleges online ügyintézésre.
                     </p>
                     <h4 class="project-details__content__title-two">
-                        Az egyedi biztosító ügyintézési szükségletek megértésével és a piac által kínált legújabb
-                        lehetőségek ismeretével arra törekszem, hogy minden Ügyfelem számára a személyes kockázatvédelmi
-                        stratégiáját kiemelkedően alakítsam ki.
+                        Több mint 7 év szakmai tapasztalattal rendelkezem ezen a területen.
                     </h4>
                     <p class="project-details__content__text">
-                        Célom, hogy segítsek nekik a hatékony és költséghatékony pénzügyi döntések meghozatalában. Ha a
-                        banki világban eligazodásra van szükséged, itt vagyok, hogy támogassalak és irányítalak a
-                        legjobb úton.
+                        A biztosítók egyedi ügymeneteinek, és a piac által kínált legújabb lehetőségek ismeretével arra
+                        törekszem, hogy felmérjem az esetleges kockázatokat, és megfelelő megoldást találjak azokra.
                     </p>
                     <p class="project-details__content__text">
-                        Személy- és vagyonbiztosítások terén a legjobb ár-érték arányú megoldásokkal biztosítom, hogy
-                        Ügyfeleim biztonságban érezzék magukat minden élethelyzetben.
+                        Célom, hogy segítsek ügyfeleimnek a megfelelő és költséghatékony megoldások megtalálásában, és a
+                        sok megoldás közül a legkedvezőbb kiválasztásában.
                     </p>
-                    <h4 class="project-details__content__title-three">Az ügyintézés kihívásai</h4>
+                    <p class="project-details__content__text">
+                        Személy- és vagyonbiztosítások terén kiemelkedő ár-érték arányú megoldásokban bízom, hiszen
+                        ezekkel az ügyfeleim biztonságban érezhetik magukat minden élethelyzetben.
+                    </p>
+                    <h4 class="project-details__content__title-three">A biztosítási szektor kihívásai</h4>
                     <ul class="project-details__content__lists list-unstyled">
-                        <li><span class="fa fa-check"></span>A személyes elkötelezettségem és a széleskörű szakmai
-                            tapasztalatom révén garantálom, hogy minden Ügyfelem egyedi pénzügyi célokat tűzhessen ki,
-                            és azokat hatékonyan elérhesse.
+                        <li><span class="fa fa-check"></span>Rengeteg, és még annál is több termék és a biztosító
+                            társaságok ismerete, amivel garantálni tudom, hogy minden ügyfelemnek megtaláljuk a számára
+                            legoptimálisabb megoldást.
                         </li>
-                        <li><span class="fa fa-check"></span>Rugalmasságom és az ügyfeleim iránti valódi érdeklődésem
-                            révén olyan pénzügyi tanácsokat nyújtok, amelyek nemcsak a jelenre, hanem a hosszú távú
-                            sikerre is optimalizáltak.</li>
-                        <li><span class="fa fa-check"></span>Az átláthatóság és a megbízhatóság elvei mentén dolgozva
-                            arra törekszem, hogy minden ügyfelem számára egy biztonságos és magabiztos pénzügyi jövőt
-                            alakítsak ki, mindezt a legmagasabb színvonalú szolgáltatásokkal és személyes figyelemmel.
+                        <li><span class="fa fa-check"></span>Az összeállított tervezet rugalmassága, és az ügyfeleim
+                            iránti valódi érdeklődésem olyan pénzügyi tanácsokat képes eredményezni, mely nem csak a
+                            jelen, hanem a jövő sikereire is optimalizáltak.</li>
+                        <li><span class="fa fa-check"></span>Az átláthatóság, és megbízhatóság elvei mentén dolgozva
+                            törekszem arra, hogy minden ügyfelemnek érhetően átadjam az őt érintő információkat,
+                            mindemellett ügyelve a legmagasabb színvonalra, és személyes figyelemre.
                         </li>
                     </ul>
                     <p class="project-details__content__text">
-                        Ha olyan biztosítási megoldásokra van szükséged, amelyek testre szabottak és megbízhatóak,
-                        fordulj hozzám bizalommal! Mert a biztosító ügyintézés nem csak szakma számomra, hanem az
-                        életminőség és a gondtalanság iránti elkötelezettség is.
+                        Ha olyan biztosítási megoldásokra van szükséged, amelyek személyre szabottak, mindemellett
+                        szükséged van egy megbízható partnerre ezen a területen, akkor fordulj hozzám bizalommal!A
+                        biztosításokra való kiemelt odafigyelés, nem csak szakma számomra, hanem az életminőség és
+                        gondtalanság iránti elkötelezettség is.
                     </p>
                 </div>
             </div>

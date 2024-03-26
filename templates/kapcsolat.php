@@ -21,7 +21,12 @@
                         <div class="contact-info__item__icon"><span class="icon-place"></span></div>
                         <h3 class="contact-info__item__title">Cím:</h3>
                         <p class="contact-info__item__text">
-                            8800 Nagykanizsa<br> Garay utca 10/c
+                            <a target="_blank"
+                                href="https://www.google.com/maps/place/Nagykanizsa,+Teleki+u.+34,+8800/@46.4537242,16.9987301,17z/data=!3m1!4b1!4m6!3m5!1s0x4768930ec22b3e73:0xf0fbbe4decd0a611!8m2!3d46.4537205!4d17.001305!16s%2Fg%2F11c1_r2mw5?authuser=0&entry=ttu">
+                                <p class="contact-info__item__text">
+                                    8800 Nagykanizsa <br> Teleki u. 34
+                                </p>
+                            </a>
                         </p>
                     </div>
                 </div>

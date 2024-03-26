@@ -17,6 +17,9 @@
                     <li class="dropdown">
                         <a href="/rolam">Rólam</a>
                     </li>
+                    <li class="dropdown">
+                        <a href="/velemenyek">Vélemények</a>
+                    </li>
                     <li>
                         <a href="/kapcsolat">Kapcsolat</a>
                     </li>

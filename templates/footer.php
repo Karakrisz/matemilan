@@ -104,3 +104,5 @@
 <script src="assets/vendors/countdown/countdown.min.js"></script>
 <!-- template js -->
 <script src="assets/js/ogency.js"></script>
+<!-- Boaz js -->
+<script src="Boaz/js/app.js"></script>

@@ -36,6 +36,18 @@ function aboutController()
     ];
 }
 
+function reviewsController()
+{
+
+
+    return [
+        "velemenyek",
+        [
+            "title" => "Vélemények"
+        ]
+    ];
+}
+
 function contactController()
 {
 

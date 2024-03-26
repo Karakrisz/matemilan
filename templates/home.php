@@ -29,7 +29,7 @@
                 <!-- image-layer end -->
                 <div class="container">
                     <div class="row">
-                        <div class="col-xl-8">
+                        <div class="col-xl-12">
                             <div class="main-slider__one-item__content">
                                 <h2>Több, mint<br> pénzügyi szakértés<br> és tanácsadás</h2>
                                 <a href="about.html" class="main-slider__one-item__content-curved-circle-box">
@@ -66,7 +66,7 @@
                 <!-- image-layer end -->
                 <div class="container">
                     <div class="row">
-                        <div class="col-xl-8">
+                        <div class="col-xl-12">
                             <div class="main-slider__one-item__content">
                                 <h2>Több, mint<br> pénzügyi szakértés<br> és tanácsadás</h2>
                                 <a href="about.html" class="main-slider__one-item__content-curved-circle-box">
@@ -170,6 +170,50 @@
         </div><!-- /.thm-owl__slider -->
     </div><!-- /.container -->
 </div><!-- /.client-carousel -->
+
+<!-- About Start -->
+<section class="about-one">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="about-one__thumb wow fadeInLeft animated" data-wow-delay="300ms">
+                    <!-- about thumb start -->
+                    <div class="about-one__thumb__round--top"></div>
+                    <div class="about-one__thumb__img">
+                        <img src="Boaz/img/milan-2.webp" alt="ogency">
+                    </div>
+                    <div class="about-one__thumb__round--bottom"></div>
+                </div><!-- about thumb end -->
+            </div>
+            <div class="col-lg-6">
+                <div class="about-one__content">
+                    <!-- about content start-->
+                    <div class="section-title">
+                        <h5 class="section-title__tagline section-title__tagline--has-dots">Személyes bemutatkozás</h5>
+                        <h2 class="section-title__title">Máté Milán - Prémium tanácsadó </h2>
+                    </div><!-- section-title -->
+                    <p class="about-one__content__text-one">
+                        Több mint 7 éve foglalkozom személyes pénzügyi tanácsadással. Ez idő alatt közel 800 Ügyfél
+                        elégedetten kezdte el a velem való együttműködést. Allfinanz szolgáltatás magánszemélyek, kis
+                        és középvállalkozások számára. Ehhez több száz szakmai képzésen vettem részt azért, hogy minden
+                        pénzügyi területen naprakész információkat tudjak átadni. <strong>Célom: </strong> minél több
+                        embernek
+                        segíteni,
+                        érthető, korrekt, személyre szabott pénzügyi tanácsokkal.
+                    </p>
+
+                    <h5 class="section-title__tagline section-title__tagline--margin"> <strong>Eredményeim:</strong>
+                    </h5>
+                    <p class="about-one__content__text-two">2021-ben Zala Megyében a legeredményesebb tanácsadó,
+                        2022-ben, az országos igazgatóságunkban a legszorgalmasabb tanácsadó voltam!
+                    </p>
+                    <a href="/rolam" class="ogency-btn">Bővebben</a>
+                </div><!-- about content end-->
+            </div>
+        </div>
+    </div>
+</section>
+<!-- About End -->
 <!-- Feature Start -->
 <section class="feature-one">
     <div class="container">
@@ -230,54 +274,16 @@
     </div>
 </section>
 <!-- Feature End -->
-<!-- About Start -->
-<section class="about-one">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6">
-                <div class="about-one__thumb wow fadeInLeft animated" data-wow-delay="300ms">
-                    <!-- about thumb start -->
-                    <div class="about-one__thumb__round--top"></div>
-                    <div class="about-one__thumb__img">
-                        <img src="Boaz/img/milan-2.webp" alt="ogency">
-                    </div>
-                    <div class="about-one__thumb__round--bottom"></div>
-                </div><!-- about thumb end -->
-            </div>
-            <div class="col-lg-6">
-                <div class="about-one__content">
-                    <!-- about content start-->
-                    <div class="section-title">
-                        <h5 class="section-title__tagline section-title__tagline--has-dots">Személyes bemutatkozás</h5>
-                        <h2 class="section-title__title">Máté Milán - Prémium tanácsadó </h2>
-                    </div><!-- section-title -->
-                    <p class="about-one__content__text-one">Karrierkezdet: 2017.03.27.</p>
-                    <p class="about-one__content__text-one">MNB regisztrációs szám: 117032707064</p>
-                    <p class="about-one__content__text-one">Allfinanz szolgáltatás magánszemélyek, kis és
-                        középvállalkozások számára.
-                    </p>
-                    <p class="about-one__content__text-one">Ügyfelek száma: Több mint 700 személy
-                    </p>
-                    <p class="about-one__content__text-one">Célom: Minél több embernek segíteni, érhető, korrekt,
-                        személyre szabott pénzügyi tanácsokkal.
-                    </p>
-                    <h5 class="section-title__tagline section-title__tagline--margin"> <strong>Eredményeim:</strong>
-                    </h5>
-                    <p class="about-one__content__text-two">2021-ben Zala Megyében a legeredményesebb tanácsadó,
-                        2022-ben, az országos igazgatóságunkban a legszorgalmasabb tanácsadó voltam!
-                    </p>
-                    <a href="/rolam" class="ogency-btn">Bővebben</a>
-                </div><!-- about content end-->
-            </div>
-        </div>
-    </div>
-</section>
-<!-- About End -->
 <!-- Sliding Text Start-->
 <section class="slider-text-one">
     <div class="slider-text-one__animate-text">
-        <span>Több, mint pénzügyi szakértés <span>&</span> tanácsadás</span>
-        <span>Több, mint pénzügyi szakértés <span>&</span> tanácsadás</span>
+        <span>
+            Biztonság, Szakértelem, Bizalom, Fejlődés, Törődés, Család <span>&</span> , Stabilitás, Állandóság,
+            Letisztult, Tervezhető,
+            Partnerség,Független</span>
+        <span> Biztonság, Szakértelem, Bizalom, Fejlődés, Törődés, Család <span>&</span> , Stabilitás, Állandóság,
+            Letisztult, Tervezhető,
+            Partnerség,Független</span>
     </div>
 </section>
 <!-- Sliding Text Start-->
@@ -582,10 +588,10 @@
                     <div class="fact-one__item__icon"><span class="icon-complete"></span></div><!-- /.fact-one__icon -->
                     <div class="fact-one__item__count">
                         <span class="count-box">
-                            <span class="count-text" data-stop="600" data-speed="1500"></span>
+                            <span class="count-text" data-stop="1615" data-speed="1500"></span>
                         </span>
                     </div><!-- /.fact-one__count -->
-                    <h3 class="fact-one__item__title">Befejezett projektek</h3><!-- /.fact-one__title -->
+                    <h3 class="fact-one__item__title">Szerződés</h3><!-- /.fact-one__title -->
                 </div><!-- /.fact-one__item -->
             </div><!-- /.col-lg-3 col-md-6 -->
             <div class="col-lg-3 col-md-6 wow fadeInUp animated" data-wow-delay="200ms">
@@ -593,10 +599,10 @@
                     <div class="fact-one__item__icon"><span class="icon-award"></span></div><!-- /.fact-one__icon -->
                     <div class="fact-one__item__count">
                         <span class="count-box">
-                            <span class="count-text" data-stop="16" data-speed="1500"></span>
+                            <span class="count-text" data-stop="96" data-speed="1500"></span>
                         </span>
                     </div><!-- /.fact-one__count -->
-                    <h3 class="fact-one__item__title">Tiszteletbeli díj</h3><!-- /.fact-one__title -->
+                    <h3 class="fact-one__item__title">Elismerések</h3><!-- /.fact-one__title -->
                 </div><!-- /.fact-one__item -->
             </div><!-- /.col-lg-3 col-md-6 -->
             <div class="col-lg-3 col-md-6 wow fadeInUp animated" data-wow-delay="300ms">
@@ -661,34 +667,438 @@
             }'>
             <!-- Testimonial Item -->
             <div class="testimonial-one__item">
-                <div class="testimonial-one__item__author-thumb">
-                    <img src="assets/images/resources/testimonial-1-1.jpg" alt="ogency">
-                    <span>“</span><!-- testimonial-quote-icon -->
-                </div><!-- testimonial-author-thumb -->
                 <div class="testimonial-one__item__content">
                     <div class="testimonial-one__item__quote">
-                        This is due to their excellent service, competitive pricing and customer support.
-                        It’s throughly refresing to get such a personal touch at this stage to enable
-                        us to quote as necessary.
+                        A személyes tanácsadóm MÁTHÉ MILAN. Élet
+                        biztosítás és előnyugdíj ügyekben kértem a
+                        véleményét.Mindenben nagyon segítőkész volt, és
+                        teljes körű információkkal szolgált minden
+                        kérdésre, emellett nagyon rugalmasan állt
+                        bármilyen keresemhez. Csak ajánlani tudom..
                     </div><!-- testimonial-quote -->
-                    <div class="testimonial-one__item__meta">Christine eve<span>.&nbsp;&nbsp;Customer</span></div>
+                    <div class="testimonial-one__item__meta">Csaba<span>.&nbsp;&nbsp;3 hete ÚJ</span></div>
                     <!-- testimonial-meta -->
                 </div><!-- testimonial-content -->
             </div>
             <!-- Testimonial Item -->
             <!-- Testimonial Item -->
             <div class="testimonial-one__item">
-                <div class="testimonial-one__item__author-thumb">
-                    <img src="assets/images/resources/testimonial-1-2.jpg" alt="ogency">
-                    <span>“</span><!-- testimonial-quote-icon -->
-                </div><!-- testimonial-author-thumb -->
                 <div class="testimonial-one__item__content">
                     <div class="testimonial-one__item__quote">
-                        This is due to their excellent service, competitive pricing and customer support.
-                        It’s throughly refresing to get such a personal touch at this stage to enable
-                        us to quote as necessary.
+                        Már 2 éve Máté Milán a tanácsadóm. A javasolt
+                        lehetőségek nagyon megfeleltek az
+                        igényeimnek. Az előzőkhöz képest nagyon
+                        gyorsan megtaláltuk a segítségével a
+                        legmegfelelőbbet, amik még mindig jól
+                        beváltak. Az ügyletek megvalósítása is rekord
+                        gyorsasággal megtörtént. Bármilyen
+                        kérdésemre gyorsan, korrekten és udvariasan
+                        válaszolt.
                     </div><!-- testimonial-quote -->
-                    <div class="testimonial-one__item__meta">Delia riley<span>.&nbsp;&nbsp;Customer</span></div>
+                    <div class="testimonial-one__item__meta">Marika</div>
+                    <!-- testimonial-meta -->
+                </div><!-- testimonial-content -->
+            </div>
+            <!-- Testimonial Item -->
+            <!-- Testimonial Item -->
+            <div class="testimonial-one__item">
+                <div class="testimonial-one__item__content">
+                    <div class="testimonial-one__item__quote">
+                        Az én tanácsadóm Máté Milán.
+                        Az Ő munkáját szeretném értékelni.
+                        Teljesem megvagyok elégedve a munkájával, segítő
+                        kész, megbízható. Bármi problémám van nekem, vagy
+                        a páromnak azonnal segít és megoldást talál.
+                    </div><!-- testimonial-quote -->
+                    <div class="testimonial-one__item__meta">Regina</div>
+                    <!-- testimonial-meta -->
+                </div><!-- testimonial-content -->
+            </div>
+            <!-- Testimonial Item -->
+            <!-- Testimonial Item -->
+            <div class="testimonial-one__item">
+                <div class="testimonial-one__item__content">
+                    <div class="testimonial-one__item__quote">
+                        Évek óta Máté Milán a család tanácsadója.
+                        Nagyon nagy problémát okozott, hogy
+                        családon belüli megtakarítások, biztosítások
+                        össze-vissza voltak megkötve. :/ Ebben
+                        segített a legtöbbet, hogy minden szerződést
+                        felülvizsgált és megtalálta számunkra a
+                        legtökéletesebbet. A KGFB-t is már ő
+                        rendezte, ez nekünk nagyon pozitív, hogy
+                        előre szól nekünk, ha megérkezik a KGFB-s
+                        éves tervezet és ő már keresi a megfelelőt. :)
+                        Szeretném itt megköszönni a gyors és
+                        rugalmas munkáját, főleg, hogy akár hétvégén
+                        is rendelkezésre áll.
+                        #Thanks OVB
+                    </div><!-- testimonial-quote -->
+                    <div class="testimonial-one__item__meta">Márk<span>.&nbsp;&nbsp;19 órája</span></div>
+                    <!-- testimonial-meta -->
+                </div><!-- testimonial-content -->
+            </div>
+            <!-- Testimonial Item -->
+            <!-- Testimonial Item -->
+            <div class="testimonial-one__item">
+                <div class="testimonial-one__item__content">
+                    <div class="testimonial-one__item__quote">
+                        A mi tanácsadónk Máté Milán. Egy ismerős
+                        révén kerültünk vele kapcsolatba.
+                        A család biztosítási ügyeit tette rendbe,
+                        korszerű konstrukciókra cserélve a régi
+                        szerződéseket.
+                        Nagyon szerencsésnek találtuk, hogy a mi
+                        paramétereinknek megfelelő ajánlatokat
+                        összehasonlította és a legmegfelelőbbet
+                        segített megtalálni!
+                        Amit nagyon jónak tartok, hogy most minden
+                        biztosításunkat egy személy kezeli. Valamint
+                        nagyon jó, hogy bármikor elérhető, mindig
+                        mindenben próbál segíteni és teszi ezt mindig
+                        nagyon kedvesen és türelmesen!!!
+                    </div><!-- testimonial-quote -->
+                    <div class="testimonial-one__item__meta">Veronika</div>
+                    <!-- testimonial-meta -->
+                </div><!-- testimonial-content -->
+            </div>
+            <!-- Testimonial Item -->
+            <!-- Testimonial Item -->
+            <div class="testimonial-one__item">
+                <div class="testimonial-one__item__content">
+                    <div class="testimonial-one__item__quote">
+                        Az én OVB tanácsadóm Máté Milán. Várandós volt
+                        a párom amikor felkerestük egy ismerősünket
+                        baba megtakarítás céljából. Ő ajánlotta nekünk
+                        Milánt, aki mindenben segített és érthetően
+                        elmondott mindent. Így végül élet- és
+                        balesetbiztosítást is kötöttünk. Azóta is ha bármi
+                        segítségre van szükségünk, Ő mindenben segít
+                        nekünk.
+                        Köszönjük Máté Milán
+                    </div><!-- testimonial-quote -->
+                    <div class="testimonial-one__item__meta">Krisztián<span>.&nbsp;&nbsp;3 hete ÚJ</span></div>
+                    <!-- testimonial-meta -->
+                </div><!-- testimonial-content -->
+            </div>
+            <!-- Testimonial Item -->
+            <!-- Testimonial Item -->
+            <div class="testimonial-one__item">
+                <div class="testimonial-one__item__content">
+                    <div class="testimonial-one__item__quote">
+                        Az én és családom személyes tanácsadója Máté
+                        Milán. Nagyon szeretjük, mert segítségével jobban
+                        átlátható megérthető balesetbiztosítást és
+                        megtakarítást tudunk kötni. Segítőkész,
+                        rugalmas, naprakész, családbarát és mindig
+                        pontos és érthető. Csak ajánlani tudom.
+                    </div><!-- testimonial-quote -->
+                    <div class="testimonial-one__item__meta">Zsolt<span>.&nbsp;&nbsp;3 hete ÚJ</span></div>
+                    <!-- testimonial-meta -->
+                </div><!-- testimonial-content -->
+            </div>
+            <!-- Testimonial Item -->
+            <!-- Testimonial Item -->
+            <div class="testimonial-one__item">
+                <div class="testimonial-one__item__content">
+                    <div class="testimonial-one__item__quote">
+                        A családom tanácsadója Máté Milán.
+                        Mikor kislányunk megszületett fontosnak tartottuk,
+                        hogy biztosítsuk az Ő, illetve mi jövőnket,
+                        biztonságunkat. Baleset és életbiztosításban,
+                        házbiztosításban, mindenben Ő segített nekünk.
+                        Pontosítva csinált mindent helyettünk. Sok
+                        dolgunk munkája mellette nem akadt. :)
+                        Mindig lehet rá számítani, amint valami
+                        problémánk akad, ő levelünkre szinte azonnal
+                        reagál, segítőkész.
+                        Jelenleg is egy KGFB ügyben tartjuk a
+                        kapcsolatot.
+                        Ezúton, itt is szeretnénk megköszönni, gyors és
+                        pontos munkáját!
+                    </div><!-- testimonial-quote -->
+                    <div class="testimonial-one__item__meta">Anita<span>.&nbsp;&nbsp;3 hete ÚJ</span></div>
+                    <!-- testimonial-meta -->
+                </div><!-- testimonial-content -->
+            </div>
+            <!-- Testimonial Item -->
+            <!-- Testimonial Item -->
+            <div class="testimonial-one__item">
+                <div class="testimonial-one__item__content">
+                    <div class="testimonial-one__item__quote">
+                        A családom személyes tanácsadója Máté Milán,
+                        akit többször és többféle témában (megtakarítás,
+                        családi biztosítás) is felkerestünk. Mindig a
+                        rendelkezésünkre állt és áll azóta is, a számunkra
+                        fontos dolgokat vette figyelembe, több ajánlattal,
+                        felkészülten és pontosan érkezett a személyes
+                        megbeszélésekre. Szívből ajánlom Milánt
+                        mindenkinek!
+                    </div><!-- testimonial-quote -->
+                    <div class="testimonial-one__item__meta">Hanna<span>.&nbsp;&nbsp;3 hete ÚJ</span></div>
+                    <!-- testimonial-meta -->
+                </div><!-- testimonial-content -->
+            </div>
+            <!-- Testimonial Item -->
+            <!-- Testimonial Item -->
+            <div class="testimonial-one__item">
+                <div class="testimonial-one__item__content">
+                    <div class="testimonial-one__item__quote">
+                        Családunk személyes tanácsadója Máté Milán,
+                        több éve ismerjük őt. Nekünk több témában
+                        segített, pl. biztosítások, megtakarítások. Minden
+                        esetben elmondta a lehetőségeket személyre
+                        szabottan, javaslatot tett arra, hogy mit
+                        válasszunk. A döntésünk után megoldotta a
+                        kapcsolatfelvételt és beindította a tranzakciókat.
+                        Mindezt úgy, hogy ki sem kellett otthonról
+                        mozdulnunk, időbeosztásunkhoz is igazodott.
+                        Azóta is fordulhatunk hozzá bármikor, több
+                        csatornán is könnyen elérhető. Nyugodt szívvel
+                        ajánlom másoknak is.
+                    </div><!-- testimonial-quote -->
+                    <div class="testimonial-one__item__meta">Andrea<span>.&nbsp;&nbsp;3 hete ÚJ</span></div>
+                    <!-- testimonial-meta -->
+                </div><!-- testimonial-content -->
+            </div>
+            <!-- Testimonial Item -->
+            <!-- Testimonial Item -->
+            <div class="testimonial-one__item">
+                <div class="testimonial-one__item__content">
+                    <div class="testimonial-one__item__quote">
+                        Máté Milán az OVB tanácsadóm, akivel több éve
+                        tartom a kapcsolatot. A családom tagjainak élet-,
+                        baleset biztosításait, KGFB biztosításainkat,
+                        befektetéseinket vele kötöttük meg. A
+                        lehetőségeket összehasonlítva a legjobb ajánlat
+                        kiválasztásában segített bennünket. Sok időt és
+                        energiát spóroltam azzal, hogy tartja a kapcsolatot
+                        a biztosítókkal, elintézi helyettem felmerülő
+                        problémákat, tovább küldi, kitölti a
+                        dokumentumokat. Mindig elérhető, segítőkész,
+                        intelligens fiatalember.
+                    </div><!-- testimonial-quote -->
+                    <div class="testimonial-one__item__meta">Katalin<span>.&nbsp;&nbsp;3 hete ÚJ</span></div>
+                    <!-- testimonial-meta -->
+                </div><!-- testimonial-content -->
+            </div>
+            <!-- Testimonial Item -->
+            <!-- Testimonial Item -->
+            <div class="testimonial-one__item">
+                <div class="testimonial-one__item__content">
+                    <div class="testimonial-one__item__quote">
+                        Az én személyes tanácsadóm Máté Milán. Élet és
+                        baleset biztosítás köttetett általa.A megkötésekor
+                        mindent alaposan elmagyarázott, tényekkel illetve
+                        más biztosításokkal összehasonlítva.
+                        Továbbá pozitív számomra, hogy a mai napig
+                        mindig elérhető és segítőkész ha valami kérdés
+                        merül fel!
+                    </div><!-- testimonial-quote -->
+                    <div class="testimonial-one__item__meta">Zsolt<span>.&nbsp;&nbsp;3 hete ÚJ</span></div>
+                    <!-- testimonial-meta -->
+                </div><!-- testimonial-content -->
+            </div>
+            <!-- Testimonial Item -->
+            <!-- Testimonial Item -->
+            <div class="testimonial-one__item">
+                <div class="testimonial-one__item__content">
+                    <div class="testimonial-one__item__quote">
+                        Ismerős ajánlotta lakásvásárlás előtt az OVB-t.
+                        Teljeskörű felvilágosítást kaptam a témában, illetve
+                        kötöttem lakáselőtakarékossági biztosítást is.
+                        Azóta kötelező gépjármű biztosítás ügyben is
+                        értékeztünk már...
+                        Máté Milánnak ezúton is köszönöm a segítségét.
+                    </div><!-- testimonial-quote -->
+                    <div class="testimonial-one__item__meta">paZIRezZ<span>.&nbsp;&nbsp;3 hete ÚJ</span></div>
+                    <!-- testimonial-meta -->
+                </div><!-- testimonial-content -->
+            </div>
+            <!-- Testimonial Item -->
+            <!-- Testimonial Item -->
+            <div class="testimonial-one__item">
+                <div class="testimonial-one__item__content">
+                    <div class="testimonial-one__item__quote">
+                        Több mint 3 évvel ezelőtt volt szerencsém Máté
+                        Milán OVB pénzügyi tanácsadóhoz. Nagyon jó
+                        ajánlatai mindmáig aktualitásokról tanúskodnak,
+                        mind a biztosítás mind megtakarítás témában. Ha
+                        kérdésünk adódik, hétvégétől függetlenül
+                        rendelkezésünkre áll. Alkalmazkodik
+                        munkabeosztásunkhoz időpontot egyeztetve
+                        velünk.
+                        A legkedvezőbb ajánlatot kaptuk tőle és azóta is
+                        hozzá fordulunk.
+                    </div><!-- testimonial-quote -->
+                    <div class="testimonial-one__item__meta">Orsolya<span>.&nbsp;&nbsp;3 hete ÚJ</span></div>
+                    <!-- testimonial-meta -->
+                </div><!-- testimonial-content -->
+            </div>
+            <!-- Testimonial Item -->
+            <!-- Testimonial Item -->
+            <div class="testimonial-one__item">
+                <div class="testimonial-one__item__content">
+                    <div class="testimonial-one__item__quote">
+                        Több mint 3 évvel ezelőtt volt szerencsém Máté
+                        Milán OVB pénzügyi tanácsadóhoz. Nagyon jó
+                        ajánlatai mindmáig aktualitásokról tanúskodnak,
+                        mind a biztosítás mind megtakarítás témában. Ha
+                        kérdésünk adódik, hétvégétől függetlenül
+                        rendelkezésünkre áll. Alkalmazkodik
+                        munkabeosztásunkhoz időpontot egyeztetve
+                        velünk.
+                        A legkedvezőbb ajánlatot kaptuk tőle és azóta is
+                        hozzá fordulunk.
+                    </div><!-- testimonial-quote -->
+                    <div class="testimonial-one__item__meta">Orsolya<span>.&nbsp;&nbsp;3 hete ÚJ</span></div>
+                    <!-- testimonial-meta -->
+                </div><!-- testimonial-content -->
+            </div>
+            <!-- Testimonial Item -->
+            <!-- Testimonial Item -->
+            <div class="testimonial-one__item">
+                <div class="testimonial-one__item__content">
+                    <div class="testimonial-one__item__quote">
+                        A mi tanácsadónk Máté Milán, akivel három évvel
+                        ezelőtt találkoztunk. Segített nekünk kiválasztani a
+                        számunkra megfelelő nyugdíj előtakarékossági
+                        formát, ami nagy segítség volt, mert sem időnk,
+                        sem energiánk nem volt arra, hogy a témában több
+                        ajánlatot begyűjtsünk és azokat magunk
+                        hasonlítsuk össze. Ezen kívül egy
+                        kedvezményesebb otthonbiztosítás megkötését is
+                        neki köszönhetjük. Akárhányszor keressük, mindig
+                        segítőkész. Legutoljára segített bekapcsolódni egy
+                        online előadásba, amely az állami támogatású
+                        hitelekről szólt, így teljesebb képet kaptunk a
+                        feltételekről. 5 csillagot adnék neki!
+                    </div><!-- testimonial-quote -->
+                    <div class="testimonial-one__item__meta">Zsuzsanna<span>.&nbsp;&nbsp;6 napja ÚJ
+                        </span></div>
+                    <!-- testimonial-meta -->
+                </div><!-- testimonial-content -->
+            </div>
+            <!-- Testimonial Item -->
+            <!-- Testimonial Item -->
+            <div class="testimonial-one__item">
+                <div class="testimonial-one__item__content">
+                    <div class="testimonial-one__item__quote">
+                        Az én tanácsadóm Máté Milán. Először autó, majd
+                        lakás és baleset biztosítást kötöttünk. Gyors,
+                        rugalmas hozzá állás, bárkinek ajánlom!!!
+                        Köszönöm Milán 😊😊😊
+                    </div><!-- testimonial-quote -->
+                    <div class="testimonial-one__item__meta">Ildikó<span>.&nbsp;&nbsp;5 napja ÚJ
+                        </span></div>
+                    <!-- testimonial-meta -->
+                </div><!-- testimonial-content -->
+            </div>
+            <!-- Testimonial Item -->
+            <!-- Testimonial Item -->
+            <div class="testimonial-one__item">
+                <div class="testimonial-one__item__content">
+                    <div class="testimonial-one__item__quote">
+                        Az én tanácsadóm OVB-nél Máté Milán! Biztosítás
+                        és befektetésben segített nekem! Nagyon
+                        segítőkész volt munkámból adódóan hétvégente is
+                        elérhető volt így rengeteg időmet megtakarítottam!
+                        Jövőben is az Ő segítségét fogom kérni és bátran
+                        ajánlom is bárkinek!
+                    </div><!-- testimonial-quote -->
+                    <div class="testimonial-one__item__meta">Norbert<span>.&nbsp;&nbsp;5 napja ÚJ
+                        </span></div>
+                    <!-- testimonial-meta -->
+                </div><!-- testimonial-content -->
+            </div>
+            <!-- Testimonial Item -->
+            <!-- Testimonial Item -->
+            <div class="testimonial-one__item">
+                <div class="testimonial-one__item__content">
+                    <div class="testimonial-one__item__quote">
+                        Édesanyám által ismertem meg a tanácsadóm
+                        Máté Milánt. Több, mint 1 éve a tanácsadóm.
+                        Általa sikerült leváltanom egy csak lakáscélú
+                        megtakarítást egy jövedelmezőbb, szabad
+                        felhasználásúra. Baleset-és életbiztosítást is az
+                        ő segítségével kötöttem. Bármi kérdésem van
+                        mindig segít. Megtalálja a megfelelő időpontot,
+                        módot amikor beszélni tudunk, pedig velem
+                        nem egyszerű ezt összeegyeztetni. :)
+                    </div><!-- testimonial-quote -->
+                    <div class="testimonial-one__item__meta">Renáta</div>
+                    <!-- testimonial-meta -->
+                </div><!-- testimonial-content -->
+            </div>
+            <!-- Testimonial Item -->
+            <!-- Testimonial Item -->
+            <div class="testimonial-one__item">
+                <div class="testimonial-one__item__content">
+                    <div class="testimonial-one__item__quote">
+                        Családunk lakás és balesetbiztosítását Máté Milán
+                        pénzügyi tanácsadó intézi évek óta. Maximális
+                        tájékozottsága, pontos, érthető tájékoztatásai miatt
+                        választottuk. Bármilyen kérdésben, bármikor
+                        felkereshetjük. Tudása mindig naprakész, ezért nagy
+                        segítség a fontos döntésekben.
+                    </div><!-- testimonial-quote -->
+                    <div class="testimonial-one__item__meta">Bea</div>
+                    <!-- testimonial-meta -->
+                </div><!-- testimonial-content -->
+            </div>
+            <!-- Testimonial Item -->
+            <!-- Testimonial Item -->
+            <div class="testimonial-one__item">
+                <div class="testimonial-one__item__content">
+                    <div class="testimonial-one__item__quote">
+                        Milán Máté a Nagykanizsai irodából, mindig
+                        szakszerű tanácsokkal látott el, főleg biztosítások
+                        terén! Bármikor kereshettem, és mindig talált
+                        megoldást rövid idő alatt! Nagyon meg vagyok
+                        elégedve a munkájával. Gyors, és profi!
+                    </div><!-- testimonial-quote -->
+                    <div class="testimonial-one__item__meta">Imre</div>
+                    <!-- testimonial-meta -->
+                </div><!-- testimonial-content -->
+            </div>
+            <!-- Testimonial Item -->
+            <!-- Testimonial Item -->
+            <div class="testimonial-one__item">
+                <div class="testimonial-one__item__content">
+                    <div class="testimonial-one__item__quote">
+                        Máté Milán a tanácsadóm, már több
+                        éve. Udvarias, figyelmes, mindenre tud számomra
+                        kedvező megoldást találni. Rugalmas az időpont
+                        kiválasztásában, pontos a megbeszélt online
+                        beszélgetések időpontjának betartásában. Időnként, ha
+                        aktuálissá válik valamelyik szerződés kapcsán,
+                        felkeres és tájékoztat. Meg vagyok elégedve a
+                        munkájával.
+                    </div><!-- testimonial-quote -->
+                    <div class="testimonial-one__item__meta">JUDIT</div>
+                    <!-- testimonial-meta -->
+                </div><!-- testimonial-content -->
+            </div>
+            <!-- Testimonial Item -->
+            <!-- Testimonial Item -->
+            <div class="testimonial-one__item">
+                <div class="testimonial-one__item__content">
+                    <div class="testimonial-one__item__quote">
+                        A mi pénzügyi tanácsadónk, Máté Milán. Teljes
+                        mértékben meg vagyunk elégedve vele. Már 4
+                        vagy 5 éve van hozzá szerencsénk 😊. Mindig
+                        napra kész, odafigyel az évfordulókra, pedig
+                        nem egy dolog van, amit a mi esetünkben
+                        kezel.
+                        A biztosításainkat (lakás, családi, baleseti, kgfb -
+                        több járműre -) is rajta keresztül kötöttük.
+                        Csak ajánlani tudjuk. Amikor keresem, ha
+                        éppen akkor nem is elérhető, rövid időn belül
+                        mindig visszahív. Bármikor számíthatunk rá!!!
+                        Minden esetben azt nézi, hogy az ügyfeleinek
+                        melyik a legjobb megoldás.
+                    </div><!-- testimonial-quote -->
+                    <div class="testimonial-one__item__meta">Erika</div>
                     <!-- testimonial-meta -->
                 </div><!-- testimonial-content -->
             </div>
@@ -781,3 +1191,47 @@
     </div>
 </section>
 <!-- Call To Action End -->
+<!--Contact Info Start-->
+<section class="contact-info">
+    <div class="container">
+        <div class="contact-info__wrapper">
+            <div class="row">
+                <div class="col-xl-6 col-md-6">
+                    <div class="contact-info__item">
+                        <div class="contact-info__item__icon"><span class="icon-place"></span></div>
+                        <h3 class="contact-info__item__title">Cím:</h3>
+                        <p class="contact-info__item__text">
+                            <a target="_blank"
+                                href="https://www.google.com/maps/place/Nagykanizsa,+Teleki+u.+34,+8800/@46.4537242,16.9987301,17z/data=!3m1!4b1!4m6!3m5!1s0x4768930ec22b3e73:0xf0fbbe4decd0a611!8m2!3d46.4537205!4d17.001305!16s%2Fg%2F11c1_r2mw5?authuser=0&entry=ttu">
+                                <p class="contact-info__item__text">
+                                    8800 Nagykanizsa <br> Teleki u. 34
+                                </p>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-md-6">
+                    <div class="contact-info__item">
+                        <div class="contact-info__item__icon"><span class="icon-phone"></span></div>
+                        <h3 class="contact-info__item__title">Kapcsolat</h3>
+                        <p class="contact-info__item__text">
+                            <a
+                                href="mailto:info@mmfuggetlenpenzugyitanacsado.hu">info@mmfuggetlenpenzugyitanacsado.hu</a>
+                            <a href="tel:+36306913148">+36 30 691 3148</a>
+                        </p>
+                    </div>
+                </div>
+                <!-- <div class="col-xl-4 col-md-7">
+                    <div class="contact-info__item">
+                        <div class="contact-info__item__icon"><span class="icon-schedule"></span></div>
+                        <h3 class="contact-info__item__title">Timing</h3>
+                        <p class="contact-info__item__text">
+                            Mon - Sat: 8:00 am to 6:00 pm<br> Sunday: CLOSED
+                        </p>
+                    </div>
+                </div> -->
+            </div>
+        </div>
+    </div>
+</section>
+<!--Contact Info End-->

@@ -19,44 +19,38 @@
                 <div class="project-details__content">
                     <h3 class="project-details__content__title">Nyugdíj és Öngondoskodás</h3>
                     <p class="project-details__content__text">
-                        <strong>Üdvözöllek!</strong> Máté Milán vagyok és elkötelezett vagyok az élet
-                        aranyszakaszának előkészítésében. A nyugdíj, az állami nyugdíj és a nyugdíjkorhatár olyan
-                        kulcsfontosságú témák, amelyekre odafigyelek az Ügyfeleim életében. Az öngondoskodás
-                        felértékelődése azt jelenti, hogy nem csak a jelenre, hanem a jövőre is gondolunk, és én mindent
-                        megteszek annak érdekében, hogy az Ügyfeleim számára a nyugodt nyugdíj éveit biztosítsam.
+                        Elkötelezett vagyok a munkám azon részében, melyben az élet aranyszakaszát készítjük elő. A
+                        nyugdíj az a témakör, mely az elmúlt években rendkívüli módon felértékelődött, ezért
+                        kulcsfontosságú, hogy erre kiemelt figyelemmel legyen az ügyfeleim életében mindamellett, hogy
+                        itt is adókedvezmények segítenek bennünket.
                     </p>
                     <h4 class="project-details__content__title-two">
-                        Az állami nyugdíjrendszer és a nyugdíjkorhatár kérdéseiben való jártasságom révén segítek az
-                        ügyfeleimnek a lehető legoptimálisabb nyugdíjtervezés kialakításában. Az öngondoskodás
-                        felértékelése egy új korszakot hoz el, ahol a pénzügyi függetlenség elérése és megőrzése a fő
-                        cél.
+                        Az állami nyugdíjrendszer, és a sokat emlegetett nyugdíjkorhatár kérdéseiben való jártasságom
+                        révén segítek az ügyfeleimnek abban, hogy hogyan könnyítsék meg a jövőbeni pénzügyi életüket.
                     </h4>
                     <p class="project-details__content__text">
-                        A nyugdíj nemcsak egy időszak, hanem az élet aranyszakaszának kulcsfontosságú része, és én
+                        A nyugdíj nem csak egy időszak, hanem az élet aranyszakaszának kulcsfontosságú része, és én
                         mindent megteszek annak érdekében, hogy ügyfeleim ezt a szakaszt teljes mértékben élvezhessék.
                     </p>
-                    <p class="project-details__content__text">
-                        Az én vezetésem alatt a nyugdíj nemcsak egy időszak, hanem egy jól megérdemelt életszakasz
-                        kiválóságban és kényelemben.
-                    </p>
-                    <h4 class="project-details__content__title-three">Az ügyintézés kihívásai</h4>
+
+                    <h4 class="project-details__content__title-three">A nyugdíjra való felkészülés kihívásai</h4>
                     <ul class="project-details__content__lists list-unstyled">
-                        <li><span class="fa fa-check"></span>Az én nyugdíjtervezési szakértelmem és az állami
-                            nyugdíjrendszer részletes ismereteim révén garantálom, hogy minden Ügyfelem számára
-                            optimális és személyre szabott nyugdíjstratégiát alkalmazok, figyelembe véve a
-                            nyugdíjkorhatár és az egyéni igényeket.
+                        <li><span class="fa fa-check"></span>Okleveles nyugdíjszakértőként ismerem a nyugdíjrendszert,
+                            és annak minden tulajdonságát. Ezzel fel tudom készíteni ügyfeleimet arra, hogy milyen
+                            előnyökkel jár az, ha gondolunk jövőbeni önmagunkra
                         </li>
                         <li><span class="fa fa-check"></span>Az öngondoskodás felértékelődése a pénzügyi függetlenség
-                            kulcsfontosságú részévé vált, és én ebben segítek az Ügyfeleimnek, hogy a nyugdíjuk alatt is
-                            magabiztosan és gondtalanul élhessenek.</li>
+                            kulcsfontosságú részévé vált. Nyugdíj témakörben az állam is szorgalmazza a
+                            megtakarításokat, és ehhez adó-visszatérítési lehetőségeket biztosít.
+                        </li>
                         <li><span class="fa fa-check"></span>Az élet aranyszakaszára való felkészítés nem csak egy
-                            pénzügyi szolgáltatás, hanem egy hosszú távú együttműködés amely biztosítja, hogy minden
-                            Ügyfelem biztonságban és komfortban élhessen a nyugdíj éveiben.
+                            pénzügyi szolgáltatás, hanem egy hosszú távú együttműködés amely bizonyítja, hogy minden
+                            ügyfelem
                         </li>
                     </ul>
                     <p class="project-details__content__text">
-                        Ha olyan nyugdíjtervezési stratégiákra és öngondoskodási megoldásokra vágysz, amelyek valóban az
-                        élet aranyszakaszát kényelmesé és gondtalanná teszik, keress bizalommal!
+                        Ha olyan nyugdíjtervezési stratégiákra és öngondoskodási megoldásokra van szükséged, amelyek
+                        stabilan, kiszámítható módon tudnak segíteni, keress bizalommal!
                     </p>
                 </div>
             </div>
